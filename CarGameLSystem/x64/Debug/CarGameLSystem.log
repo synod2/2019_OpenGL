@@ -1,0 +1,25 @@
+﻿  BasicShapeObjs.cpp
+  Camera.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\BasicShapeObjs.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  GroundObj2.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\Camera.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  InitShader.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\GroundObj2.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  Mesh.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\InitShader.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  MeshHemisphere.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\Mesh.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  MeshSphere.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\Mesh.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  CarGameLSystemApp.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\BaseCodes\Mesh.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  CarModel.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\CarGameLSystem\CarGameLSystemApp.cpp(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  LSystem.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\CarGameLSystem\CarModel.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  main_CarGameLSystem.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\CarGameLSystem\LSystem.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  TreeModelL.cpp
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\CarGameLSystem\main_CarGameLSystem.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  코드를 생성하고 있습니다...
+C:\Users\synod\Documents\GitHub\CU_CG_CourseExamples\CarGame\CarGameLSystem\TreeModelL.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory

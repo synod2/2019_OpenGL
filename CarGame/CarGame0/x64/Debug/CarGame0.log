@@ -1,0 +1,22 @@
+﻿  CarGame0App.cpp
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(114,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(163,32): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(397,76): warning C4305: '인수': 'int'에서 'GLboolean'(으)로 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(397,40): warning C4309: '인수': 상수 값이 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(400,26): warning C4244: '초기화 중': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(401,17): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(449,76): warning C4305: '인수': 'int'에서 'GLboolean'(으)로 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(449,40): warning C4309: '인수': 상수 값이 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(452,26): warning C4244: '초기화 중': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(453,17): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(502,77): warning C4305: '인수': 'int'에서 'GLboolean'(으)로 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(502,41): warning C4309: '인수': 상수 값이 잘립니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(505,27): warning C4244: '초기화 중': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(506,18): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(522,23): warning C4244: '초기화 중': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(523,14): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(531,24): warning C4244: '초기화 중': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(532,15): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(549,25): warning C4244: '초기화 중': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\CarGame0\CarGame0App.cpp(550,16): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CarGame0.vcxproj -> C:\Users\synod\Desktop\19_과제\2학기\그래픽스\CarGame\x64\Debug\CarGame0.exe
